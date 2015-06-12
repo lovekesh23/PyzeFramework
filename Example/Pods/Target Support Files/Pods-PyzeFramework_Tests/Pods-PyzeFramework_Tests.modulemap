@@ -1,0 +1,6 @@
+framework module Pods_PyzeFramework_Tests {
+  umbrella header "Pods-PyzeFramework_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
