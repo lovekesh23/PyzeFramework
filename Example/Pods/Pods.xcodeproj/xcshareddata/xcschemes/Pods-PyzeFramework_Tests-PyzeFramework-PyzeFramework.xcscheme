@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "91677BAE08E734D941162161"
+               BlueprintIdentifier = "66241D7198F5F044B76B2ADD"
                BuildableName = "PyzeFramework.bundle"
                BlueprintName = "Pods-PyzeFramework_Tests-PyzeFramework-PyzeFramework"
                ReferencedContainer = "container:Pods.xcodeproj">
